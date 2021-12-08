@@ -12,5 +12,10 @@ void main (void)
 	printf("edit commit");
 	
 	
+	printf("1");
+	printf("2");
+	printf("3");
 	
+	printf("a");
+	printf("b");
 }
