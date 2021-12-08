@@ -18,4 +18,5 @@ void main (void)
 	
 	printf("a");
 	printf("b");
+	printf("c");
 }
